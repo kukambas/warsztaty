@@ -1,4 +1,4 @@
-# Pakiet igraph - bo grafy są wszędzie tylko dyskretnie
+# Social Network Analysis w R
 
 [Michał Wojtasiewicz, Instytut Podstaw Informatyki PAN]()
 
@@ -11,11 +11,17 @@ Naturalną metodą zapisu sieci jest postać grafu czyli zbiór wierzchołków i
 ## Plan warsztatu 
 
 1) Wprowadzenie do tematyki SNA.
+
 2) Omówienie przykładowej sieci poprzez strukturę grafu.
+
 3) Analiza skupień w sieci społecznej.
+
 4) Wyznaczenie różnych rodzajów najbardziej wpływowych elementów sieci.
+
 5) Wprowadzenie do systemów rekomendujących.
+
 6) Szeregowania zadań z restrykacją braku przestoju.
+
 
 ## Wymagane pakiety 
 
@@ -25,7 +31,7 @@ Naturalną metodą zapisu sieci jest postać grafu czyli zbiór wierzchołków i
 
 ## Wymagane od uczestników umiejętności i wiedza 
 
-Podstawowa znajomość języka R oraz logiczne myślenie.
+Podstawowa znajomość języka R.
 
 ## Wymagania wstępne do wykonania przed warsztatem 
 
